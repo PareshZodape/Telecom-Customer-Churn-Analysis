@@ -5,16 +5,16 @@
 - Business objective: Understand customer churn patterns, identify customer segments with higher churn rates, and prioritize active customers who may need retention attention.
 - Key business question: Which customer segments show higher churn, and which active customers should the retention team prioritize?
 - Business tools: Python, MySQL, and Power BI.
-2. Project Workflow
+
+
+**2. Project Workflow**
 1. Python — Clean & Explore
 Data validation, cleaning, EDA, feature engineering
 
+2. MySQL — Analyze & Segment
+Business questions, churn analysis, customer risk segmentation
 
-**2. MySQL — Analyze & Segment**
-Business questions --> churn analysis --> customer risk segmentation
-
-
-**3. Power BI — Visualize & Communicate**
+3. Power BI — Visualize & Communicate
 Interactive dashboards, KPI tracking, retention recommendations
 
 
